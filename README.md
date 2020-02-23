@@ -1,1 +1,5 @@
-# buildYOLO
+# YOLO v4 설치하기
+***
+
+* 젯슨 나노의 cuda 버젼 체크하기
+
