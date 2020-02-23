@@ -48,6 +48,6 @@ $ make
 ## 참고문헌
 * [cuda와 OpenCV 컴파일하는 방법](https://pjreddie.com/darknet/install/#cuda)
 * [YOLO v3: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
-* [YOLO v1 논문(pdf): You Only Look Once: Unified, Real-Time Object Detection](https://pjreddie.com/media/files/papers/yolo_1.pdf)
-* [YOLO v2 논문(pdf): YOLO9000: Better, Faster, Stronger](https://pjreddie.com/media/files/papers/YOLO9000.pdf)
-* [YOLO v3 논문(pdf): YOLOv3: An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
+* [YOLO v1 논문 (pdf): You Only Look Once: Unified, Real-Time Object Detection](https://pjreddie.com/media/files/papers/yolo_1.pdf)
+* [YOLO v2 논문 (pdf): YOLO9000: Better, Faster, Stronger](https://pjreddie.com/media/files/papers/YOLO9000.pdf)
+* [YOLO v3 논문 (pdf): YOLOv3: An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
