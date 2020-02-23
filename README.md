@@ -14,7 +14,7 @@ $ cd /usr/local/
 $ ls
 ```
 
-* 기본으로 설치되어있는 CUDA Path를 export하기.
+* 기본으로 설치되어있는 CUDA Path를 export하기
 ```
 $ export PATH=/usr/local/cuda-10.0/bin${PATH:+:${PATH}}
 $ export LD_LIBRARY_PATH=/usr/local/cuda-10.0/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
