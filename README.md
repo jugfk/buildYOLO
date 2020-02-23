@@ -40,7 +40,7 @@ OPENCV=1
 -------
 ```
 
-* Darknet YOLO build하기 <b>(1~2시간 소요)</b
+* Darknet YOLO build하기 <b>(1~2시간 소요)</b>
 ```
 $ make
 ```
