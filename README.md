@@ -1,7 +1,7 @@
 # YOLO v3 설치하기
 ***
 
-* OpenCV 4.1 설치하기 (설치했다면 패스)
+* OpenCV 4.1 설치하기 (2~4시간 소요) (설치했다면 넘어가기)
 ```
 $ git clone https://github.com/jetsonworld/buildOpneCV.git
 $ ./buildOpenCV.sh |& tee openCV_build.log
@@ -39,7 +39,7 @@ OPENCV=1
 -------
 ```
 
-* Darknet YOLO build하기
+* Darknet YOLO build하기 (1~2시간 소요)
 ```
 $ make
 ```
