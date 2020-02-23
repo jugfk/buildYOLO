@@ -24,9 +24,9 @@ $ export LD_LIBRARY_PATH=/usr/local/cuda-10.0/lib64${LD_LIBRARY_PATH:+:${LD_LIBR
 ```
 $ git clone https://github.com/AlexeyAB/darknet
 
-cd darknet
-wget https://pjreddie.com/media/files/yolov3.weights
-wget https://pjreddie.com/media/files/yolov3-tiny.weights
+$ cd darknet
+$ wget https://pjreddie.com/media/files/yolov3.weights
+$ wget https://pjreddie.com/media/files/yolov3-tiny.weights
 ```
 
 * build를 위한 Makefile 설정하기
