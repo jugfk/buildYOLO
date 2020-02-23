@@ -3,6 +3,7 @@ How To Install YOLO on Jetson Nano:
 ===========================================================================================================
 sudo apt update
 cd /usr/local/
+ls
 -Check the cuda version
 export PATH=/usr/local/cuda-10.0/bin${PATH:+:${PATH}}
 export LD_LIBRARY_PATH=/usr/local/cuda-10.0/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
