@@ -1,7 +1,8 @@
 # YOLO v3 설치하기
 ***
 
-* OpenCV 4.1 설치하기 (2~4시간 소요) (설치했다면 넘어가기)
+* OpenCV 4.1 설치하기 (2~4시간 소요) 
+  * 미리 설치했다면 다음 스텝으로 넘어가세요.
 ```
 $ git clone https://github.com/jetsonworld/buildOpneCV.git
 $ ./buildOpenCV.sh |& tee openCV_build.log
