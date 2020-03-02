@@ -1,14 +1,6 @@
 # YOLO v3 설치하기
 ***
 
-* OpenCV 4.1 설치하기 <b>(2~4시간 소요)</b>
-  * 미리 설치했다면 다음 스텝으로 넘어가세요.
-```
-$ git clone https://github.com/jetsonworld/buildOpneCV.git
-$ ./buildOpenCV.sh |& tee openCV_build.log
-$ make -j4
-```
-
 * 젯슨 나노의 cuda 버젼 체크하기
 ```
 $ cd /usr/local/
