@@ -37,6 +37,9 @@ OPENCV=1
 $ make
 ```
 
+![YOLO_v3_Output.png](https://raw.githubusercontent.com/jetsonworld/buildYOLO/master/Images/YOLO_v3_Output.png)
+
+
 ## 참고문헌
 * [cuda와 OpenCV 컴파일하는 방법](https://pjreddie.com/darknet/install/#cuda)
 * [YOLO v3: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
