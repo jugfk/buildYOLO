@@ -37,13 +37,14 @@ OPENCV=1
 $ make
 ```
 
-![YOLO_v3_Output.png](https://raw.githubusercontent.com/jetsonworld/buildYOLO/master/Images/YOLO_v3_Output.png)
-
 * 실행하기
 ```
 $ cd darknet 
 $ ./darknet detect cfg/yolov3-tiny.cfg yolov3-tiny.weights data/dog.jpg
 ```
+
+![YOLO_v3_Output.png](https://raw.githubusercontent.com/jetsonworld/buildYOLO/master/Images/YOLO_v3_Output.png)
+
 
 ## 참고문헌
 * [cuda와 OpenCV 컴파일하는 방법](https://pjreddie.com/darknet/install/#cuda)
